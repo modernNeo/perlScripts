@@ -10,17 +10,18 @@
 -Upon invoking, the script will access the file classList2.txt, compute the total percentage score for every student, assign a letter grade according to the Letter Grades Map, and record them in the file grades in the following format.  
   
 Student# <tab> Given Name <tab>  Family Name <tab> Course Grade  
-```  
+```
   
 ### circle.pl  
   
-1.	Write a perl script called circle.pl which takes one number from the command line (representing the radius of a circle), the script then prints the circumference and area of the circle.    
+```
+Write a perl script called circle.pl which takes one number from the command line (representing the radius of a circle), the script then prints the circumference and area of the circle.    
 This script should execute as follows (sample numbers)
 prompt> circle.pl 4
 The radius of circle is 4.
 The circumference of the circle is 25.12
 The area of the circle is 50.24
-  
+```  
   
 ### getAverage.pl  
   
