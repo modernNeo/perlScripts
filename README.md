@@ -4,11 +4,12 @@
   
 ### assignGrades.pl  
   
-1.	Write a Perl script assignGrades.pl to assign letter grades to the students. 
-Please use the classList2.txt file.
+```
+-Write a Perl script assignGrades.pl to assign letter grades to the students. Please use the classList2.txt file.
 
-Upon invoking, the script will access the file classList2.txt, compute the total percentage score for every student, assign a letter grade according to the Letter Grades Map, and record them in the file grades in the following format. 
-         Student# <tab> Given Name <tab>  Family Name <tab> Course Grade  
+-Upon invoking, the script will access the file classList2.txt, compute the total percentage score for every student, assign a letter grade according to the Letter Grades Map, and record them in the file grades in the following format.  
+Student# <tab> Given Name <tab>  Family Name <tab> Course Grade  
+```  
   
 ### circle.pl  
   
